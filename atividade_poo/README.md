@@ -25,9 +25,10 @@ npm run build
 > Antes da entrega, adicione aqui um print da tela de Produtos e um print da tela de Movimentações, conforme solicitado no enunciado.
 
 ### Produtos
-
+![Tela de Produtos](prints/produtos.png)
 <!-- Exemplo: ![Tela de Produtos](./prints/produtos.png) -->
 
 ### Movimentações
 
 <!-- Exemplo: ![Tela de Movimentações](./prints/movimentacoes.png) -->
+![Tela de Produtos](prints/movimentacao.png)
